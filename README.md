@@ -120,10 +120,10 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=react&hide=issues&line_height=32&show_icons=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Group-Fighter&theme=react&hide=issues&line_height=32&show_icons=true&hide_border=true" />
 </a>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true&theme=react" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Group-Fighter&hide_border=true&theme=react" />
 
 
   
@@ -131,32 +131,8 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&hide_border=true&no-frame=true&langs_count=10&hide_border=true&theme=react"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Group-Fighter&hide_border=true&no-frame=true&langs_count=10&hide_border=true&theme=react"/>
   
   </td>
 </tr>
 </table>
-
-<br>
-
-<p align="centre">
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.instagram.com/anteikudevs" target="_blank">
-  <img align="center" alt="AnteikuDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/anteikudevs">
-    <img align="center" alt="AnteikuDevs | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  
