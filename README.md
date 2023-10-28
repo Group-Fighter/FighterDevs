@@ -1,7 +1,4 @@
-<div align="center">
-  <a href="https://www.lichter.io/?ref=gh-logo" target="blank">
-  </a>
-</div>
+<img src="https://t3.ftcdn.net/jpg/06/04/65/92/360_F_604659243_hKHRsHcLxf6rcUvDn0lOcVCt0Q8EFIQV.jpg" width="50%"/>
 <br>
 
 ### Hi there 👋
@@ -12,6 +9,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍💻 &nbsp; Programmer is my passions
+- 🧑‍💻 &nbsp; More than 6 years experienced
+- 🧑‍💻 &nbsp; Has worked on many personal and corporate projects
 
 <br>
 
