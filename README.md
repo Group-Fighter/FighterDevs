@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/06/04/65/92/360_F_604659243_hKHRsHcLxf6rcUvDn0lOcVCt0Q8EFIQV.jpg" width="50%"/>
+<img src="https://t3.ftcdn.net/jpg/06/04/65/92/360_F_604659243_hKHRsHcLxf6rcUvDn0lOcVCt0Q8EFIQV.jpg" width="50%" align="center"/>
 <br>
 
 ### Hi there 👋
