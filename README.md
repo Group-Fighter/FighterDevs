@@ -13,7 +13,7 @@
 - 🧑‍💻 &nbsp; Programmer is my passions
 - 🧑‍💻 &nbsp; More than 6 years experienced
 - 🧑‍💻 &nbsp; Has worked on many personal and corporate projects
-- 🧑‍💻 &nbsp; Fullstack Developer
+- 🧑‍💻 &nbsp; Fullstack Web Developer, Backend Mobile & Desktop Developer
 
 <br>
 
